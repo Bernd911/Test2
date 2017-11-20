@@ -1,2 +1,3 @@
 # Test2
-Ein weiterer Test, um mehr Sicherheit zu bekommen
+Ein weiterer Test, um mehr Sicherheit zu bekommen.
+Jedes neue Projekt bringt mich weiter !
