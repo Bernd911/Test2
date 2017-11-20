@@ -7,6 +7,9 @@ namespace Test2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Test2!");
+            NeueKlasse neu = new NeueKlasse();
+            Console.WriteLine( neu.Anzeigen );
+            Console.ReadLine() ;
         }
     }
 }
